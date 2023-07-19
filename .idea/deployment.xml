@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="236-build" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="213-deploy">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yxf/DevPro/go/src/k8s-scheduler-self" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="236-build">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yxf/DevProg/go/src/sigs.k8s.io/k8s-scheduler-self" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
